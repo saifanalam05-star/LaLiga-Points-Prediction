@@ -25,7 +25,7 @@ The main question is: **Can a team's previous-season performance help predict ho
 ## Repository structure
 
 ```text
-LaLiga-Prediction/
+LinearRegression/
 ├── data/
 │   ├── laligamatches.csv
 │   ├── laliga_2025_2026.csv
